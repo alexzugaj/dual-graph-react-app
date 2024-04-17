@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dual-graph-react-app/static/css/main.1e8453c1.css",
+    "main.js": "/dual-graph-react-app/static/js/main.7a70ac5d.js",
+    "static/js/453.0e1c0cb4.chunk.js": "/dual-graph-react-app/static/js/453.0e1c0cb4.chunk.js",
+    "static/media/tips.csv": "/dual-graph-react-app/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/dual-graph-react-app/index.html",
+    "main.1e8453c1.css.map": "/dual-graph-react-app/static/css/main.1e8453c1.css.map",
+    "main.7a70ac5d.js.map": "/dual-graph-react-app/static/js/main.7a70ac5d.js.map",
+    "453.0e1c0cb4.chunk.js.map": "/dual-graph-react-app/static/js/453.0e1c0cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8453c1.css",
+    "static/js/main.7a70ac5d.js"
+  ]
+}
